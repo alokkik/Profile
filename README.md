@@ -1,8 +1,12 @@
 # Alok Chauhan
 
-You can use the [editor on GitHub](https://github.com/imAllok/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###About
+A **Computer Science** graduate from ABES Engineering College with *3 years* of work experience in BFSI(Banking,Finanacial Services and Insurance)
+domain,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Professinal Journey
+Alphacrest Capital Management LLC : May-2020 to Present
+
 
 ### Markdown
 
