@@ -1,6 +1,6 @@
 # Alok Chauhan
 
-###About
+### About
 A **Computer Science** graduate from ABES Engineering College with *3 years* of work experience in BFSI(Banking,Finanacial Services and Insurance)
 domain,
 
