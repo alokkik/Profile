@@ -5,7 +5,8 @@ A **Computer Science** graduate from ABES Engineering College with more than *3 
 BFSI(Banking,Finanacial Services and Insurance) domain
 
 ### Professinal Journey
-Alphacrest Capital Management LLC : May-2020 to Present
+#### Alphacrest Capital Management LLC : **May-2020 to Present**
+Working as :  Data Scientist
 
 
 ### Markdown
