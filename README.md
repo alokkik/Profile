@@ -59,16 +59,17 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
   
 </details>
 </details>
-</details>
+
 <details>
   <summary>Statistical Studies</summary>
   <details>
   <summary>Women/NonWomen Owned business</summary>
   
-</details>
-<details>
+  </details>
+  <details>
   <summary>Hispanic/NonHispanic Owned business</summary>
   
+  </details>
 </details>
 <details>
   <summary>Gandalf Decision Engine</summary>
@@ -78,4 +79,4 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
   <summary>Covid Analysis</summary>
   
 </details>
-</details>
+
