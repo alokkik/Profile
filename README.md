@@ -1,4 +1,4 @@
-![Photo](Profile Pic(1).png)
+![Photo](Image.png)
 # Allok Chauhan
 
 ### About
