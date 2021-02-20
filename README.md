@@ -1,8 +1,11 @@
+![Photo](https://drive.google.com/file/d/1TefXCbf4NqA5G2zBRSIgWPCle2uPXRs-/view?usp=sharing)
 # Alok Chauhan
 
 ### About
-A **Computer Science** graduate from ABES Engineering College with more than *3 years* of work experience in 
-BFSI(Banking,Finanacial Services and Insurance) domain
+A **Computer Science** graduate with more than *3 years* of demonstrated work experience in 
+BFSI(Banking,Finanacial Services and Insurance) domain, have been working on Statistical and Machine Learning
+techniques like Linear and Logistic Regression,Decision Trees, Random Forests, Binomial and Multiclass classification
+and clustering. 
 
 ### Professinal Journey
 #### Alphacrest Capital Management LLC : **May-2020 to Present**
