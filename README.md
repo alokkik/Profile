@@ -1,4 +1,5 @@
 ![Image](Image.png)
+<kbd><img src="Image.png" /></kbd>
 # Alok Chauhan
 
 ### About
