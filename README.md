@@ -1,5 +1,5 @@
 ![Photo](https://github.com/imAllok/Profile/blob/gh-pages/Profile%20Pic%20(1).png)
-# Alok Chauhan
+# Allok Chauhan
 
 ### About
 A **Computer Science** graduate with more than *3 years* of demonstrated work experience in 
