@@ -1,10 +1,22 @@
 <div><kbd><img src="Image.png"/></kbd></div>
 
   
-# Alok Chauhan
+# Alok Chauhan                                   
 
-### About
+### Summary
 A **Computer Science** graduate with more than *3 years* of demonstrated work experience in BFSI (Banking, Finanacial Services and Insurance) domain working on Statistical and Machine Learning techniques like Linear and Logistic Regression, Decision Trees, Random Forests, Binary and Multiclass classification and clustering. 
+
+### Education
+| Level     |     Year    | University    | Percentage|
+| :---        |    :----:   |   :----:      |       ---:|
+| BTech.      |     2017    | UPTU   |   62   |
+| 12th Standard|   2012     | CBSE   |   74   |
+| 10th Standard|   2010     | CBSE   |   79   |
+
+### Core Knowledge & Key Competencies 
+> **Machine Learning | Credit Risk Modelling(PD|LGD|EAD) | Logistic Regression | Data Analytics | EDA | Statistical Analysis | Clustering | Decision Trees | Random Forest | NLP | PCA | LDA | Deep Neural Networks (CNN | ANN | RNN|LSTM) | Multiprocessing
+Covariance and Correlation | ANOVA | Regression | T-Test | Chi-Squared Test | Feature Engineering | 
+Python (numpy, pandas,matplotlib, sklearn,pickle,multiprocessing)**
 
 ### Professinal Journey
 
