@@ -3,14 +3,10 @@
   
 # Alok Chauhan
 
-<details>
-  <summary> About </summary>
-  
+### About
 A **Computer Science** graduate with more than *3 years* of demonstrated work experience in BFSI (Banking, Finanacial Services and Insurance) domain working on Statistical and Machine Learning techniques like Linear and Logistic Regression, Decision Trees, Random Forests, Binary and Multiclass classification and clustering. 
-</details>
-  
-<details>
-  <summary> Professinal Journey </summary>
+
+### Professinal Journey
 
 > #### Alphacrest Capital Management LLC : **May-2020 to Present**
 > ##### Role : Data Scientist
@@ -30,4 +26,3 @@ A **Computer Science** graduate with more than *3 years* of demonstrated work ex
 > * As an MLE, I worked on User Attrition/Churn Prediction and Sentiment Analysis for mobile gaming apps like Epic Cricket from Nazara games and JungleBook from GoLive game studios.
 > * Used data visualizations like Cohort Analysis , Sunburst Chart , Sankey Chart to analyse user journey in an App.
 > * Created a web scraping bot to scrape prices of mobile devices from Amazon.in
-</details>
