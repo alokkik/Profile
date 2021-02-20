@@ -1,4 +1,4 @@
-![Photo](https://github.com/imAllok/Profile/blob/gh-pages/Profile%20Pic.png)
+![Photo](https://github.com/imAllok/Profile/blob/gh-pages/Profile%20Pic%20(1).png)
 # Alok Chauhan
 
 ### About
