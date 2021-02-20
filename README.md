@@ -1,4 +1,4 @@
-<div><p align="right"><kbd><img src="Image.png"/></p></kbd></div>
+<div><kbd><img src="Image.png"/></kbd></div>
 
   
 # Alok Chauhan
