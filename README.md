@@ -25,7 +25,8 @@ A **Computer Science** graduate with more than *3 years* of demonstrated work ex
 > As a Data scientist,  I worked on **Credit Risk Modelling(PD/LGD/EAD/Scorecard)**, various statistical studies like Hispanic/Non-Hispanic and Women/Non-Women owned businesses and gandalf decision engine to check credit worthiness of a customer using **Python, SQL and Excel**.
 </details>
 <details>
-  <summary> TPF Technologies Pvt. Ltd : **Jun-2017 to Mar-2018**</summary>
+  <summary> TPF Technologies Pvt. Ltd : **Jun-2017 to Mar-2018**</summary
+    
 > ##### Role : Machine Learning Engineer
 > ##### Work :
 > * Started my professional journey here.
