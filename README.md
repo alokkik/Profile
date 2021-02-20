@@ -37,3 +37,11 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 > * As an MLE, I worked on User Attrition/Churn Prediction and Sentiment Analysis for mobile gaming apps like Epic Cricket from Nazara games and JungleBook from GoLive game studios.
 > * Used data visualizations like Cohort Analysis , Sunburst Chart , Sankey Chart to analyse user journey in an App.
 > * Created a web scraping bot to scrape prices of mobile devices from Amazon.in
+
+### Project
+<details>
+  <summary>ACCHECK</summary>
+</details>
+<details>
+  <summary>FIXSIM</summary>
+</details>
