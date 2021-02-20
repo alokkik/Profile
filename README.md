@@ -1,7 +1,7 @@
 <div><p align="right"><kbd><img src="Image.png"/></kbd></p></div>
 
   
-# Allok Chauhan
+# Alok Chauhan
 
 ### About
 A **Computer Science** graduate with more than *3 years* of demonstrated work experience in 
