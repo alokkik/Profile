@@ -1,6 +1,9 @@
 <div>
-<kbd><img src="Image.png" align="right"/></kbd>
+<kbd align="right">
+<img src="Image.png"/>
+</kbd>
 </div>
+
 # Allok Chauhan
 
 ### About
