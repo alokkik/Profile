@@ -1,5 +1,5 @@
-![Photo](Image.png)
-# Allok Chauhan
+![Image](Image.png)
+# Alok Chauhan
 
 ### About
 A **Computer Science** graduate with more than *3 years* of demonstrated work experience in 
