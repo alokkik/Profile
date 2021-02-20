@@ -49,11 +49,13 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 </details>
 <details>
   <summary>Credit Risk Modelling</summary>
-  <details>
+  
+<details>
   <summary>Probability of Default</summary>
-  </details>
-  <details>
-  <summary>ScoreCard</summary>
-  </details>
+  
+</details>
+<details>
+  <summary>Scorecard</summary>
+  
 </details>
 </details>
