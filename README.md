@@ -7,6 +7,7 @@
 A **Computer Science** graduate with more than *3 years* of demonstrated work experience in BFSI (Banking, Finanacial Services and Insurance) domain working on Statistical and Machine Learning techniques like Linear and Logistic Regression, Decision Trees, Random Forests, Binary and Multiclass classification and clustering. 
 
 ### Education
+
 | Level     |     Year    | University    | Percentage|
 | :---        |    :----:   |   :----:      |       ---:|
 | BTech.      |     2017    | UPTU   |   62   |
