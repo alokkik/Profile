@@ -14,7 +14,7 @@ Multiclass classification and clustering.
 > #### Alphacrest Capital Management LLC : **May-2020 to Present**
 > ##### Role : Data Scientist
 > ##### Work : 
-> In Alphacrest, my share of responsiblity involves working on large datasets from vendors like Bloomberg, Factset, ETF Global etc. and development of libraries like >"accheck" and "FixSimulator" using **Python**.
+> In Alphacrest, my share of responsiblity involves working on large stock market datasets from vendors like Bloomberg, Factset, ETF Global etc. and development of libraries like "accheck" and "FixSimulator" using **Python**.
 
 
 ### Markdown
