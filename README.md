@@ -19,4 +19,4 @@ Multiclass classification and clustering.
 > #### Biz2Credit InfoServices Pvt. Ltd : **Aug-2018 to April 2020**
 > ##### Role : Data Scientist
 > ##### Work :
-> As a Data scientist, I worked on **Credit Risk Modelling(PD/LGD/EAD/Scorecard)** and various statistical studies like Hispanic/Non-Hispanic and Women/Non-Women owned businesses, Gandalf Decision Engine to check credit worthiness of a customer using Python, SQL and Excel.
+> As a Data scientist, I worked on **Credit Risk Modelling(PD/LGD/EAD/Scorecard)**, various statistical studies like Hispanic/Non-Hispanic and Women/Non-Women owned businesses and gandalf decision engine to check credit worthiness of a customer using Python, SQL and Excel.
