@@ -63,4 +63,8 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
   <summary>Gandalf Decision Engine</summary>
   
 </details>
+<details>
+  <summary>Covid Analysis</summary>
+  
+</details>
 </details>
