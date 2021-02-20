@@ -40,8 +40,10 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 
 ### Project
 <details>
-  <summary>ACCHECK</summary>
+  <summary>Fix Simulator</summary>
+  
 </details>
 <details>
-  <summary>FIXSIM</summary>
+  <summary>ACChecker(Multiprocessing Alphas & Datas)</summary>
+  
 </details>
