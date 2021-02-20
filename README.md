@@ -58,6 +58,8 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
   <summary>Scorecard</summary>
   
 </details>
+</details>
+</details>
 <details>
   <summary>Statistical Studies</summary>
   <details>
@@ -67,8 +69,6 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 <details>
   <summary>Hispanic/NonHispanic Owned business</summary>
   
-</details>
-</details>
 </details>
 <details>
   <summary>Gandalf Decision Engine</summary>
