@@ -1,5 +1,4 @@
-[//]: # <kbd><img src="Image.png" /></kbd>
-<img src="Image.png" style="border-radius:50%"/>
+<kbd><img src="Image.png" /></kbd>
 # Alok Chauhan
 
 ### About
