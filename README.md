@@ -20,3 +20,11 @@ Multiclass classification and clustering.
 > ##### Role : Data Scientist
 > ##### Work :
 > As a Data scientist, I worked on **Credit Risk Modelling(PD/LGD/EAD/Scorecard)**, various statistical studies like Hispanic/Non-Hispanic and Women/Non-Women owned businesses and gandalf decision engine to check credit worthiness of a customer using **Python, SQL and Excel**.
+
+> #### TPF Technologies Pvt. Ltd : **Jun-2017 to Mar-2018**
+> ##### Role : Machine Learning Engineer
+> ##### Work :
+> I learned **Web Scraping** using python, **Statistical and Machine Learning** techniques like *Linear Regression, Logistic Regression, Random Forest & XGBoost.*
+> As an MLE, I worked on User Attrition/Churn Prediction and Sentiment Analysis for mobile gaming apps like Epic Cricket from Nazara games and JungleBook from GoLive game studios.
+> Used data visualizations like Cohort Analysis , Sunburst Chart , Sankey Chart.
+> Created a web scraping bot to scrape prices of mobile devices from Amazon.in
