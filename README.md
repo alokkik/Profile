@@ -1,4 +1,4 @@
-![Photo](https://drive.google.com/file/d/1TefXCbf4NqA5G2zBRSIgWPCle2uPXRs-/view?usp=sharing)
+![Photo](https://octodex.github.com/images/yaktocat.png)
 # Alok Chauhan
 
 ### About
