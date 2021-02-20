@@ -47,3 +47,13 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
   <summary>ACChecker(Multiprocessing Alphas & Datas)</summary>
   
 </details>
+<details>
+  <summary>Credit Risk Modelling</summary>
+  <details>
+  <summary>Probability of Default</summary>
+  </details>
+  <details>
+  <summary>ScoreCard</summary>
+  </details>
+</details>
+</details>
