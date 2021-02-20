@@ -1,4 +1,4 @@
-<img src="Image.png" align="right"/>
+<kbd><img src="Image.png" align="right"/></kbd>
 # Allok Chauhan
 
 ### About
