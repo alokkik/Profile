@@ -27,5 +27,5 @@ Multiclass classification and clustering.
 > * Started my professional journey here.
 > * I learned **Web Scraping** using python, **Statistical and Machine Learning** techniques like *Linear Regression, Logistic Regression, Random Forest & XGBoost.*
 > * As an MLE, I worked on User Attrition/Churn Prediction and Sentiment Analysis for mobile gaming apps like Epic Cricket from Nazara games and JungleBook from GoLive game studios.
-> * Used data visualizations like Cohort Analysis , Sunburst Chart , Sankey Chart.
+> * Used data visualizations like Cohort Analysis , Sunburst Chart , Sankey Chart to analyse user journey in an App.
 > * Created a web scraping bot to scrape prices of mobile devices from Amazon.in
