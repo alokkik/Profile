@@ -1,4 +1,4 @@
-![Photo](https://drive.google.com/file/d/10AJhQ3jrKXUdBhP5MvVtD0kRosBek-CP/view?usp=sharing)
+![Photo](https://github.com/imAllok/Profile/blob/gh-pages/Profile%20Pic.png)
 # Alok Chauhan
 
 ### About
