@@ -14,38 +14,9 @@ Multiclass classification and clustering.
 > #### Alphacrest Capital Management LLC : **May-2020 to Present**
 > ##### Role : Data Scientist
 > ##### Work : 
-> In Alphacrest, my share of responsiblity involves working on large stock market datasets from vendors like Bloomberg, Factset, ETF Global etc. and development of libraries like "accheck" and "FixSimulator" using **Python**.
+> In Alphacrest, my share of responsiblity involves working on large stock market datasets from vendors like Bloomberg, Factset, ETF Global etc. and development of libraries like "accheck" and "fixSimulator" using **Python**.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imAllok/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+> #### Biz2Credit InfoServices Pvt. Ltd : **Aug-2018 to April 2020**
+> ##### Role : Data Scientist
+> ##### Work :
+> As a Data scientist, I worked on **Credit Risk Modelling(PD/LGD/EAD/Scorecard)** and various statistical studies like Hispanic/Non-Hispanic and Women/Non-Women owned businesses, Gandalf Decision Engine to check credit worthiness of a customer using Python, SQL and Excel.
