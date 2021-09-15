@@ -42,7 +42,7 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 > * Used data visualizations like Cohort Analysis , Sunburst Chart , Sankey Chart to analyse user journey in an App.
 > * Created a web scraping bot to scrape prices of mobile devices from Amazon.in
 
-### Projects
+### Most Recent Projects
 > #### Fix Simulator
 > * Fix simulator is a simulator version of a Stock Exchange.         
 > * FIX4.2 protocol used for Server Client communication.           
