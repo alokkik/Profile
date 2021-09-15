@@ -40,6 +40,7 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 
 ### Project
 <details>
+  
 <summary>Fix Simulator</summary>
   
 > * Fix simulator is a simulator version of a Stock Exchange
