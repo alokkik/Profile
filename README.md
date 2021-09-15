@@ -38,7 +38,7 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 > * Used data visualizations like Cohort Analysis , Sunburst Chart , Sankey Chart to analyse user journey in an App.
 > * Created a web scraping bot to scrape prices of mobile devices from Amazon.in
 
-### Project
+### Projects
 > #### Fix Simulator
 > * Fix simulator is a simulator version of a Stock Exchange.         
 > * FIX4.2 protocol used for Server Client communication.           
@@ -47,3 +47,17 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 > * A rule defines how an order should be filled to the client.      
 > * Time based algorithms like TWAP and VWAP were used for time based rules.      
 > * Server has two parallel processes running, one receives order and another process them.   
+> [code](https://github.com/imAllok/simulator)
+
+> #### SlackBot
+>  * SlackBot is a slack channel where user can drop queries.
+>  * Query results are replies from bot as a message.
+>  * Bot helps to get current status of servers, machines and data from vendor.
+>  * Used slack api along with python.
+>  * Used mongodb as database to push server and machines data.
+
+> #### ACchecker
+> * “ACchecker” has two components datachecker and alphachecker. 
+> * Datachecker component reads vendor data files from data dropbox.
+> * Alphachecker component reads alphas created by researchers from alpha dropbox.
+> * Both components infinitely listen for new files and start execution in multiprocessing.
