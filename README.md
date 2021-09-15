@@ -40,9 +40,6 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 
 ### Project
 > #### Fix Simulator
-
-<details>
-  
 > * Fix simulator is a simulator version of a Stock Exchange.         
 > * FIX4.2 protocol used for Server Client communication.           
 > * Client sends NewOrder/Replace Order/Cancel Order request to the server.         
@@ -50,5 +47,3 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 > * A rule defines how an order should be filled to the client.      
 > * Time based algorithms like TWAP and VWAP were used for time based rules.      
 > * Server has two parallel processes running, one receives order and another process them.   
-  
-</details>
