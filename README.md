@@ -19,7 +19,11 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 
 ### Professinal Journey
 
-> #### Alphacrest Capital Management LLC : **May-2020 to Present**
+> #### EXL Services Pvt. Ltd. : **Sep-2021 to Present**
+> ##### Role : Lead Assistant Manager(Consultant II)
+> ##### Responsibility : Not assigned yet
+
+> #### Alphacrest Capital Management LLC : **May-2020 to Sep 2021**
 > ##### Role : Data Scientist
 > ##### Responsibility : 
 > In Alphacrest, My share of responsiblity involves working on large stock market datasets from vendors like Bloomberg, Factset, ETF Global etc. and development of libraries like "accheck" and "fixSimulator" using **Python**.
