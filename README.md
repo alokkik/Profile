@@ -15,13 +15,13 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 | 10th Standard|   2010     | CBSE   |   79   |
 
 ### Core Knowledge & Key Competencies 
-> Machine Learning, Credit Risk Modelling(PD, LGD, EAD), Logistic Regression, Data Analytics, EDA, Statistical Analysis, Clustering, Decision Trees, Random Forest, NLP, PCA, LDA, Deep Neural Networks (CNN, ANN, RNN, LSTM),<br>**Covariance and Correlation, ANOVA, Regression, T-Test, Chi-Squared Test, WOE/IV**,  <br>**Python (numpy, pandas,matplotlib, sklearn,pickle,multiprocessing), SQL, Excel**
+> Machine Learning, Credit Risk Modelling(PD, LGD, EAD), Logistic Regression, Data Analytics, EDA, Statistical Analysis, Clustering, Decision Trees, Random Forest, NLP, PCA, LDA,<br>**Covariance and Correlation, ANOVA, Regression, T-Test, Chi-Squared Test, WOE/IV**,  <br>**Python (numpy, pandas,matplotlib, sklearn,pickle,multiprocessing), SQL, Excel**
 
 ### Professinal Journey
 
 > #### EXL Services Pvt. Ltd. : **Sep-2021 to Present**
-> ##### Role : Lead Assistant Manager(Consultant II)
-> ##### Responsibility : Not assigned yet
+> ##### Role : Consultant II
+
 
 > #### Alphacrest Capital Management LLC : **May-2020 to Sep 2021**
 > ##### Role : Data Scientist
