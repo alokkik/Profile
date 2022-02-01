@@ -10,7 +10,7 @@ A **Computer Science** graduate and a data science professional with more than *
 
 | Level     |     Year    | University    | Percentage|
 | :---        |    :----:   |   :----:      |       ---:|
-| BTech.      |     2017    | UPTU   |   62   |
+| BTech. Computer Science    |     2017    | UPTU   |   62   |
 | 12th Standard|   2012     | CBSE   |   74   |
 | 10th Standard|   2010     | CBSE   |   79   |
 
