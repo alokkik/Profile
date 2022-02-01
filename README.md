@@ -4,7 +4,7 @@
 
 
 ### Summary
-A **Computer Science** graduate with more than *3 years* of demonstrated experience in BFSI (Banking, Finanacial Services and Insurance) domain working on Statistical and Machine Learning techniques like Linear and Logistic Regression, Decision Trees, Random Forests, Binary and Multiclass classification and clustering. 
+A **Computer Science** graduate and a data science professional with more than *4 years* of demonstrated experience in BFSI and product analytics domain. Presently working as a Lead Assistant Manager at top analytics organisation.
 
 ### Education
 
@@ -15,12 +15,15 @@ A **Computer Science** graduate with more than *3 years* of demonstrated experie
 | 10th Standard|   2010     | CBSE   |   79   |
 
 ### Core Knowledge & Key Competencies 
-> Machine Learning, Credit Risk Modelling(PD, LGD, EAD), Logistic Regression, Data Analytics, EDA, Statistical Analysis, Clustering, Decision Trees, Random Forest, NLP, PCA, LDA,<br>**Covariance and Correlation, ANOVA, Regression, T-Test, Chi-Squared Test, WOE/IV**,  <br>**Python (numpy, pandas,matplotlib, sklearn,pickle,multiprocessing), SQL, Excel**
+> Machine Learning, Credit Risk Modelling(PD, LGD, EAD), Data Wrangling, Feature Engineering, Class of Regression algorithms, Ensemble techniques, Bagging and Boosting algorithms, Dimentionality Reduction, Clustering, Natural Langauge Processing, Web Scraping, Flask-restful Framework.
+> 
+> **Advanced Python, SAS, Javascript, SQL & No-SQL(mongodb) Database, Excel**
 
 ### Professinal Journey
 
 > #### EXL Services Pvt. Ltd. : **Sep-2021 to Present**
-> ##### Role : Consultant II
+> ##### Role : Lead Assistant Manager
+> Responsiblities are yet to be assigned.
 
 
 > #### Alphacrest Capital Management LLC : **May-2020 to Sep 2021**
