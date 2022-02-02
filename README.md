@@ -8,11 +8,11 @@ A full stack data science professional with a flavour for competitive programmin
 
 ### Education
 
-| Level     |     Year    | University    | Percentage|
-| :---        |    :----:   |   :----:      |       ---:|
-| BTech. Computer Science    |     2017    | UPTU   |   62   |
-| 12th Standard|   2012     | CBSE   |   74   |
-| 10th Standard|   2010     | CBSE   |   79   |
+| Level     |     Year    | University    |
+| :---        |    :----:   |   :----:      |
+| BTech. Computer Science    |     2017    | UPTU   |
+| 12th Standard|   2012     | CBSE   |
+| 10th Standard|   2010     | CBSE   |
 
 ### Core Knowledge & Key Competencies 
 > Machine Learning, Credit Risk Modelling(PD, LGD, EAD), Data Wrangling, Feature Engineering, Class of Regression algorithms, Ensemble techniques, Bagging and Boosting algorithms, Dimentionality Reduction, Clustering, Natural Langauge Processing, Web Scraping, Flask-restful Framework.
