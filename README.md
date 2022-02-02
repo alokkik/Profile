@@ -4,7 +4,7 @@
 
 
 ### Summary
-A full stack data science professional with flavour for competitive programmer with more than *3.5 years* of demonstrated experience in BFSI and product analytics domain. Presently working as a Lead Assistant Manager at top analytics organisation.
+A full stack data science professional with a flavour for competitive programming having more than *3.5 years* of demonstrated experience in BFSI and product analytics domain. Presently working as a Lead Assistant Manager at top analytics organisation.
 
 ### Education
 
@@ -17,7 +17,7 @@ A full stack data science professional with flavour for competitive programmer w
 ### Core Knowledge & Key Competencies 
 > Machine Learning, Credit Risk Modelling(PD, LGD, EAD), Data Wrangling, Feature Engineering, Class of Regression algorithms, Ensemble techniques, Bagging and Boosting algorithms, Dimentionality Reduction, Clustering, Natural Langauge Processing, Web Scraping, Flask-restful Framework.
 > 
-> **Advanced Python, SAS, Javascript, SQL & No-SQL(mongodb) Database, Excel**
+> **Advanced Python, SAS, Javascript, CPP, SQL & No-SQL(mongodb) Database, Excel**
 
 ### Professinal Journey
 
