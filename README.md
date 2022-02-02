@@ -4,7 +4,7 @@
 
 
 ### Summary
-A **Computer Science** graduate and a data science professional with more than *4 years* of demonstrated experience in BFSI and product analytics domain. Presently working as a Lead Assistant Manager at top analytics organisation.
+A full stack data science professionala with flavour for competitive programmer with more than *3.5 years* of demonstrated experience in BFSI and product analytics domain. Presently working as a Lead Assistant Manager at top analytics organisation.
 
 ### Education
 
