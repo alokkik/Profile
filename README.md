@@ -16,7 +16,7 @@ A full stack data science professional with a flavour for competitive programmin
 >   * Model deployment on ec2 instance
 
 > * Data Wrangling
-> * Machine Learning/AI as an API service
+> * Machine Learning/AI as a service
 > * Product Analytics
 > * Chatbot development
 > * Web Scraping bot
