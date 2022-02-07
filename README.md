@@ -6,6 +6,25 @@
 ### Summary
 A full stack data science professional with a flavour for competitive programming, having more than *3.5 years* of demonstrated experience in BFSI and product analytics domain. Presently working as a Lead Assistant Manager at top analytics organisation.
 
+
+### Skill Highlight
+> * ML/AI model development life cycle
+>   * Data Gathering, Data Preprocessing 
+>   * Feature Engineering 
+>   * Model Development, Model Evaluation
+>   * Model validation 
+>   * Model deployment on ec2 instance
+
+> * Data Wrangling
+> * Machine Learning/AI as an API service
+> * Product Analytics
+> * Chatbot development
+> * Web Scraping bot
+> * Web development (HTML/CSS/Javascript) 
+> * Process Automation
+
+
+
 ### Education
 
 | Level     |     Year    | University    |
@@ -23,7 +42,7 @@ A full stack data science professional with a flavour for competitive programmin
 
 > #### EXL Services Pvt. Ltd. : **Sep-2021 to Present**
 > ##### Role : Lead Assistant Manager
-> Responsiblities are yet to be assigned.
+> Part of market modeling team to improve marketing process using Machine Learning and Statistical analysis.
 
 
 > #### Alphacrest Capital Management LLC : **May-2020 to Sep 2021**
@@ -46,6 +65,20 @@ A full stack data science professional with a flavour for competitive programmin
 > * Created a web scraping bot to scrape prices of mobile devices from Amazon.in
 
 ### Most Recent Projects
+
+> #### Credit worthiness of a borrower (Credit Risk Modelling)
+> * Data preprocessing involved univariate and bivariate analysis
+> * Feature transformed into Weight of Evidence
+> * Features selection based on IV score and Embedded method like Random Forest
+> * Added rejected inference to remove biasness from data
+> * Used logistic regression to calculate Probability of default
+> * Used AUC ROC as evaluation metric with score 0.74
+
+> #### Developed and Monitoring Transaction Classification of 26+ Mn Banking Transactions Data
+> * Text Mining on corpus of huge of chunk of description data
+> * Creating over important features using bag of words through stemming & other NLP processes
+> * Achieved an accuracy of 97% on test data with 41 classes of transaction category using Random Forest and other Machine Learning algorithms
+
 > #### Fix Simulator
 > * Fix simulator is a simulator version of a Stock Exchange.         
 > * FIX4.2 protocol used for Server Client communication.           
