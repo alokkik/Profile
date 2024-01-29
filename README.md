@@ -13,7 +13,7 @@ Coder | Hacker | Builder | Tech Generalist who thrives on creating innovative te
 > * Product Analytics
 > * Web Applications (Python, Typescript, Javascript, Ruby on Rails, REST Apis, GraphQL, TailwindUI)
 > * Deployment (CI/CD, DevOps, MLOps, Github Actions)
-> * Cloud Platforms ( AWS | GCP )
+> * Cloud Platforms ( AWS & GCP )
 
 ### Education
 
@@ -29,7 +29,7 @@ Feature Engineering, Class of Regression algorithms, Ensemble techniques,
 Bagging and Boosting algorithms, Dimensionality Reduction, Clustering, 
 Natural Language Processing, Web Scraping, Flask-restful Framework, Fast-api
 
-> **Python || Ruby || Typescript || Javascript || Ruby on Rails || Quasar|| SQL || Postgres || AWS || GCP || Docker**
+> **Python, Ruby, Typescript, Javascript, Ruby on Rails, Quasar, SQL, Postgres, AWS, GCP, Docker**
 
 ### Professinal Journey
 > #### Fishtail.ai : **Feb-2022 to Present**
