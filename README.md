@@ -4,26 +4,16 @@
 
 
 ### Summary
-A full stack data science professional with a flavour for competitive programming, having more than *3.5 years* of demonstrated experience in BFSI and product analytics domain. Presently working as a Lead Assistant Manager at top analytics organisation.
-
+Coder | Hacker | Builder | Tech Generalist who thrives on creating innovative tech products. My extensive experience is primarily centered around FinTechs, where I have had the opportunity to build and deploy advanced ML/AI applications that scale. I have a deep-seated passion for developing cutting-edge tech products and have been fortunate to collaborate with talented individuals worldwide.
 
 ### Skill Highlight
-> * ML/AI model development life cycle
->   * Data Gathering, Data Preprocessing 
->   * Feature Engineering 
->   * Model Development, Model Evaluation
->   * Model validation 
->   * Model deployment on ec2 instance
-
-> * Data Wrangling
+> * Complete ML/AI model development life cycle
+> * Data Pipelining (Dagster.io | Lambda | Cloud Function)
 > * Machine Learning/AI as a service
 > * Product Analytics
-> * Chatbot development
-> * Web Scraping bot
-> * Web development (HTML/CSS/Javascript) 
-> * Process Automation
-
-
+> * Web Applications (Python | Typescript | Javascript | Ruby on Rails | REST | GraphQL | TailwindUI)
+> * Deployment (CI/CD | DevOps | MLOps | Github Actions)
+> * Cloud Platforms ( AWS | GCP )
 
 ### Education
 
@@ -34,21 +24,27 @@ A full stack data science professional with a flavour for competitive programmin
 | 10th Standard|   2010     | CBSE   |
 
 ### Core Knowledge & Key Competencies 
-> Machine Learning, Credit Risk Modelling(PD, LGD, EAD), Data Wrangling, Feature Engineering, Class of Regression algorithms, Ensemble techniques, Bagging and Boosting algorithms, Dimentionality Reduction, Clustering, Natural Langauge Processing, Web Scraping, Flask-restful Framework.
-> 
-> **Advanced Python, SAS, Javascript, CPP, SQL & No-SQL(mongodb) Database, Excel**
+> Machine Learning || Generative AI || Transformer models || Credit Risk Modelling(PD, LGD, EAD) || Data Wrangling, 
+Feature Engineering || Class of Regression algorithms || Ensemble techniques, 
+Bagging and Boosting algorithms || Dimensionality Reduction || Clustering, 
+Natural Language Processing || Web Scraping || Flask-restful Framework || Fast-api
+
+> **Python || Ruby || Typescript || Ruby on Rails || Quasar || Javascript || SQL & No-SQL Database || AWS || GCP**
 
 ### Professinal Journey
+> #### Fishtail.ai : **Feb-2022 to Present**
+> ##### Role : Data Scientist
+> Engaged in dynamic collaboration within a data science team, contributing significantly to the development of a risk model employing logistic regression. Simultaneously, led the design and implementation of the LLM-PDF-Digitizer project. Executed the construction and deployment of numerous Python APIs integrated with authentication mechanisms for Kubernetes environments. Pioneered the development of robust data pipelines utilizing cloud functions. On the software development front, spearheaded full-stack development tasks on the Ruby on Rails framework. Orchestrated the containerization of a Trade Finance application using Docker, ensuring efficient encapsulation and deployment. Implemented a comprehensive CI/CD pipeline within GitHub Actions and seamlessly deployed the application to Google Kubernetes Engine (GKE).
+
 
 > #### EXL Services Pvt. Ltd. : **Sep-2021 to Present**
 > ##### Role : Lead Assistant Manager
 > Part of market modeling team to improve marketing process using Machine Learning and Statistical analysis.
 
-
 > #### Alphacrest Capital Management LLC : **May-2020 to Sep 2021**
 > ##### Role : Data Scientist
 > ##### Responsibility : 
-> In Alphacrest, My share of responsiblity involves working on large stock market datasets from vendors like Bloomberg, Factset, ETF Global etc. and development of libraries like "accheck" and "fixSimulator" using **Python**.
+> At Alphacrest, my core responsibilities encompass the analysis and manipulation of extensive stock market datasets procured from prominent vendors such as Bloomberg, Factset, ETF Global, etc. Additionally, I actively contribute to the development and enhancement of Python-based libraries, namely "accheck" and "fixSimulator," focusing on the optimization and streamlining of financial data processing workflows.
 
 > #### Biz2Credit InfoServices Pvt. Ltd : **Aug-2018 to April 2020**
 > ##### Role : Data Scientist
@@ -65,6 +61,20 @@ A full stack data science professional with a flavour for competitive programmin
 > * Created a web scraping bot to scrape prices of mobile devices from Amazon.in
 
 ### Most Recent Projects
+
+> #### LLM-PDF-Digitizer(GPT-3.5-16k Context)
+> * Engineered a Vue.js-based User Interface capable of processing various types of PDFs (e.g., buyer invoices, supplier invoices, commercial invoices, loading lists, etc.).
+> * Implemented text extraction from PDFs utilizing Google Cloud Vision.
+> * Developed a classification system to categorize parsed text, enabling the selection of an appropriate JSON schema.
+> * Utilized the LLM model (GPT-3.5 with 16k context from OpenAI) to process parsed text and JSON schema, generating a structured JSON output containing relevant data.
+> * Established automated deployment procedures on Google Cloud Run, triggered by the merging of feature branches into the main branch.
+
+> #### Shipment Container Tracker Service
+
+> * Engineered a dedicated service for real-time tracking of containers linked to specific bills of lading.
+> * Implemented a resilient scraping infrastructure designed to retrieve container events from key carriers, including MSC, Hapag-Lloyd, Maersk, Cosco, and other industry leaders.
+> * Established background job processes to systematically update container events, ensuring the availability of the latest information.
+> * Integrated the AIS (Automatic Identification System) third-party API to fetch and incorporate real-time vessel coordinates while traversing the ocean.
 
 > #### Credit worthiness of a borrower (Credit Risk Modelling)
 > * Data preprocessing involved univariate and bivariate analysis
