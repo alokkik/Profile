@@ -8,11 +8,11 @@ Coder | Hacker | Builder | Tech Generalist who thrives on creating innovative te
 
 ### Skill Highlight
 > * Complete ML/AI model development life cycle
-> * Data Pipelining (Dagster.io | Lambda | Cloud Function)
+> * Data Pipelining (Dagster.io, AWS Lambda, Google Cloud Function)
 > * Machine Learning/AI as a service
 > * Product Analytics
-> * Web Applications (Python | Typescript | Javascript | Ruby on Rails | REST | GraphQL | TailwindUI)
-> * Deployment (CI/CD | DevOps | MLOps | Github Actions)
+> * Web Applications (Python, Typescript, Javascript, Ruby on Rails, REST Apis, GraphQL, TailwindUI)
+> * Deployment (CI/CD, DevOps, MLOps, Github Actions)
 > * Cloud Platforms ( AWS | GCP )
 
 ### Education
@@ -24,10 +24,10 @@ Coder | Hacker | Builder | Tech Generalist who thrives on creating innovative te
 | 10th Standard|   2010     | CBSE   |
 
 ### Core Knowledge & Key Competencies 
-> Machine Learning || Generative AI || Transformer models || Credit Risk Modelling(PD, LGD, EAD) || Data Wrangling, 
-Feature Engineering || Class of Regression algorithms || Ensemble techniques, 
-Bagging and Boosting algorithms || Dimensionality Reduction || Clustering, 
-Natural Language Processing || Web Scraping || Flask-restful Framework || Fast-api
+> Machine Learning, Generative AI(openai LLMs), Credit Risk Modelling(PD, LGD, EAD), Data Wrangling, 
+Feature Engineering, Class of Regression algorithms, Ensemble techniques, 
+Bagging and Boosting algorithms, Dimensionality Reduction, Clustering, 
+Natural Language Processing, Web Scraping, Flask-restful Framework, Fast-api
 
 > **Python || Ruby || Typescript || Javascript || Ruby on Rails || Quasar|| SQL || Postgres || AWS || GCP || Docker**
 
