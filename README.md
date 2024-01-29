@@ -84,11 +84,6 @@ Natural Language Processing, Web Scraping, Flask-restful Framework, Fast-api
 > * Used logistic regression to calculate Probability of default
 > * Used AUC ROC as evaluation metric with score 0.74
 
-> #### Developed and Monitoring Transaction Classification of 26+ Mn Banking Transactions Data
-> * Text Mining on corpus of huge of chunk of description data
-> * Creating over important features using bag of words through stemming & other NLP processes
-> * Achieved an accuracy of 97% on test data with 41 classes of transaction category using Random Forest and other Machine Learning algorithms
-
 > #### Fix Simulator
 > * Fix simulator is a simulator version of a Stock Exchange.         
 > * FIX4.2 protocol used for Server Client communication.           
