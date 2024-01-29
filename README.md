@@ -34,7 +34,7 @@ Natural Language Processing || Web Scraping || Flask-restful Framework || Fast-a
 ### Professinal Journey
 > #### Fishtail.ai : **Feb-2022 to Present**
 > ##### Role : Data Scientist
-> Engaged in dynamic collaboration within a data science team, contributing significantly to the development of a risk model employing logistic regression. Simultaneously, led the design and implementation of the LLM-PDF-Digitizer project. Executed the construction and deployment of numerous Python APIs integrated with authentication mechanisms for Kubernetes environments. Pioneered the development of robust data pipelines utilizing cloud functions. On the software development front, spearheaded full-stack development tasks on the Ruby on Rails framework. Orchestrated the containerization of a Trade Finance application using Docker, ensuring efficient encapsulation and deployment. Implemented a comprehensive CI/CD pipeline within GitHub Actions and seamlessly deployed the application to Google Kubernetes Engine (GKE).
+> Led data science efforts, contributing to logistic regression-based risk model and spearheading LLM-PDF-Digitizer. Constructed Python APIs with Kubernetes authentication, developed data pipelines with cloud functions. Headed full-stack Ruby on Rails development and containerized Trade Finance app with Docker. Implemented CI/CD pipeline in GitHub Actions, deploying seamlessly to Google Kubernetes Engine.
 
 
 > #### EXL Services Pvt. Ltd. : **Sep-2021 to Present**
