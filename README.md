@@ -29,7 +29,7 @@ Feature Engineering || Class of Regression algorithms || Ensemble techniques,
 Bagging and Boosting algorithms || Dimensionality Reduction || Clustering, 
 Natural Language Processing || Web Scraping || Flask-restful Framework || Fast-api
 
-> **Python || Ruby || Typescript || Ruby on Rails || Quasar || Javascript || SQL & No-SQL Database || AWS || GCP || Docker**
+> **Python || Ruby || Typescript || Javascript || Ruby on Rails || Quasar|| SQL || Postgres || AWS || GCP || Docker**
 
 ### Professinal Journey
 > #### Fishtail.ai : **Feb-2022 to Present**
