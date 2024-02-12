@@ -69,6 +69,13 @@ Natural Language Processing, Web Scraping, Flask-restful Framework, Fast-api
 > * Utilized the LLM model (GPT-3.5 with 16k context from OpenAI) to process parsed text and JSON schema, generating a structured JSON output containing relevant data.
 > * Established automated deployment procedures on Google Cloud Run, triggered by the merging of feature branches into the main branch.
 
+> #### Marketing Compliance Specialist AI
+
+> * Led the development of an AI system ensuring marketing materials comply with laws and policies.
+> * Engineered a RAG pipeline(loading, indexing, storing) and saved to vector database(weaviate) with updated laws, regulations and policies.
+> * Employed OpenAI’s GPT-3.5-turbo and integrated it with vector database to identify non-compliant marketing materials and activities.
+> * RAG model also suggests compliant alternatives to improve market campaigning.
+
 > #### Shipment Container Tracker Service
 
 > * Engineered a dedicated service for real-time tracking of containers linked to specific bills of lading.
